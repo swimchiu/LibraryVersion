@@ -1,4 +1,4 @@
-[![](https://tokei.rs/b1/github/XAMPPRocky/tokei?category=lines)](https://github.com/XAMPPRocky/tokei).
+[![](https://tokei.rs/b1/github/XAMPPRocky/tokei?category=lines)].
 
 
 # LibraryVersion
